@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Highest Scores app for Outline
+> Playing around with JSON in Node, to pull the highest scores from a detailed JSON file
 
 ## Install
 
