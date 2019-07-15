@@ -1,7 +1,7 @@
 {
   "name": "highestscores",
   "version": "1.0.0",
-  "description": "Highest Scores app for Outline",
+  "description": "Highest Scores app with JSON",
   "main": "highestscores.js",
   "scripts": {
     "start": "node ./highestscores.js",
